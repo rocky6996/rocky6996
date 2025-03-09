@@ -41,7 +41,7 @@
 
 ## 🛠️ Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,flutter,dart,nodejs,express,python,django,java,spring,cpp,js,html,css,tailwind,mysql,sqlite,oracle,arduino,pandas,numpy,tensorflow,scikit-learn,seaborn" />
+  <img src="https://skillicons.dev/icons?i=react,flutter,dart,nodejs,python,django,java,cpp,js,html,css,tailwind,mysql,sqlite,oracle,scikit-learn,seaborn" />
 </p>
 
 ---
